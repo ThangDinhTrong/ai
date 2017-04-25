@@ -7,12 +7,12 @@ khoa học tạo ra các máy thông minh, cụ thể là các chương trình t
 ## 2. Xu hướng
 * Dựa trên việc dữ liệu các hệ thống xử lí phân tán, các thuật toán ngày càng thông minh hơn --> có thể thực hiện đc nhiều và hiệu quả hơn
 * Ứng dụng trong nhiều lĩnh vực thực tế:
-    * giáo dục:  
-    * y tế: bác sĩ, ...
-    * giao thông vận tải: xe tự lái, ...
-    * kinh tế, tài chính: quảng cáo, marketing, ...
-    * dự đoán thiên tai: phân tích dư chấn, hướng đi của bão , thời tiết 
-    * tối ưu hóa sản xuất, phân tích rủi ro 
+    * Giáo dục:  
+    * Y tế: bác sĩ, ...
+    * Giao thông vận tải: xe tự lái, ...
+    * Kinh tế, tài chính: quảng cáo, marketing, ...
+    * Dự đoán thiên tai: phân tích dư chấn, hướng đi của bão , thời tiết 
+    * Tối ưu hóa sản xuất, phân tích rủi ro 
 ## 3. Lĩnh vực nghiên cứu chính:
 * NLP
 * Expert System
@@ -22,41 +22,41 @@ khoa học tạo ra các máy thông minh, cụ thể là các chương trình t
 
 # Natural language processing
 
-## 1.Định nghĩa 
+## 1. Định nghĩa 
 Một lĩnh vực thuộc khoa học máy tính và trí tuệ nhân tạo, liên quan đến việc giao tiếp giữa máy tính và ngôn ngữ của con người. 
 Thử thách trong lĩnh vực này là việc hiểu ngôn ngữ tự nhiên, sinh ra ngôn ngữ, kết nối ngôn ngữ với hiểu biết của máy tính, các hệ thống quản lí hội thoại giữa người và máy 
 
 ## 2. Các task liên quan đến NLP
 ### 2.1 Syntax 
-* phân tích hình thái của từ. Ví dụ: open, opens, opening
-* phân loại từ: danh từ, động từ, tính từ, ...
-* phân tích cây cú pháp
-* phân tích giới hạn câu. Ví dụ: câu "Anh yêu em. Em yêu anh nhé". Phải đưa ra được phạm vi của từng câu từ đâu đến đâu.
-* phân tích từ. Ví dụ: tách thành các từ riêng 
+* Phân tích hình thái của từ. Ví dụ: open, opens, opening
+* Phân loại từ: danh từ, động từ, tính từ, ...
+* Phân tích cây cú pháp
+* Phân tích giới hạn câu. Ví dụ: câu "Anh yêu em. Em yêu anh nhé". Phải đưa ra được phạm vi của từng câu từ đâu đến đâu.
+* Phân tích từ. Ví dụ: tách thành các từ riêng 
 ### 2.2 Semantics
-* Lexical semantics
+* Lexical semantics:
     phân tích nghĩa của từng từ
-* Machine translation
+* Machine translation:
     tự động dịch từ ngôn ngữ này sang ngôn ngữ khác 
-* Named entity recognition (NER)
+* Named entity recognition (NER):
     nhận dạng thực thể có tên
-* Natural language generation
+* Natural language generation:
     chuyển từ ngôn ngữ máy --> người hiểu được 
-* Natural language understanding
+* Natural language understanding:
     chuyển đổi các đoạn văn bản thành dạng mà máy tính có thể thao tác 
-* Optical character recognition (OCR)
+* Optical character recognition (OCR):
     cho một ảnh có 
-* Question answering
+* Question answering:
     Given a human-language question, determine its answer.
-* Recognizing Textual entailment
+* Recognizing Textual entailment:
     cho hai đoạn văn bản, tìm quan hệ giữa chúng 
-* Relationship extraction
+* Relationship extraction:
     cho một đoạn văn bản, xác định quan hệ giữa hai thực thể (vợ - chồng)
-* Sentiment analysis
+* Sentiment analysis:
     dựa vào một tập các dữ liệu, phân tích review thành các lớp khác nhau 
-* Topic segmentation and recognition
+* Topic segmentation and recognition:
     cho một văn bản, phân tích thành các đoạn nhỏ, đưa ra chủ đề cho mỗi đoạn 
-* Word sense disambiguation
+* Word sense disambiguation:
     một từ có nhiều nghĩa, đưa ra nghĩa thích hợp nhất trong ngữ cảnh 
 ### 2.3 Discourse
 * Automatic summarization: tự động tóm tắt
@@ -73,18 +73,18 @@ Dạng phổ biến nhất của hệ chuyên gia là một chương trình gồ
 Nhiều hệ chuyên gia đã được thiết kế và xây dựng để phục vụ các lĩnh vực kế toán, y học, điều khiển tiến trình (process control), dịch vụ tư vấn tài chính (financial service), tài nguyên con người (human resources), v.v..
 
 # Robotics
-một ngành kỹ thuật bao gồm thiết kế, chế tạo, vận hành, và ứng dụng robot,[1] cũng như các hệ thống máy tính để điều khiển, phản hồi tín hiệu cảm biến, và xử lý thông tin của chúng. Những công nghệ này liên hệ với các máy móc tự động dùng để thay thế con người trong những môi trường độc hại hoặc trong các quá trình sản xuất, hoặc bắt chước con người về hình thức, hành vi, hoặc/và nhận thức. Nhiều robot ngày nay được lấy cảm hứng từ các loài vật, còn gọi là robot phỏng sinh học.
+Một ngành kỹ thuật bao gồm thiết kế, chế tạo, vận hành, và ứng dụng robot,[1] cũng như các hệ thống máy tính để điều khiển, phản hồi tín hiệu cảm biến, và xử lý thông tin của chúng. Những công nghệ này liên hệ với các máy móc tự động dùng để thay thế con người trong những môi trường độc hại hoặc trong các quá trình sản xuất, hoặc bắt chước con người về hình thức, hành vi, hoặc/và nhận thức. Nhiều robot ngày nay được lấy cảm hứng từ các loài vật, còn gọi là robot phỏng sinh học.
 
 # Computer vision
 ## 1.Định nghĩa:
- là một lĩnh vực bao gồm các phương pháp thu nhận, xử lý ảnh kỹ thuật số, phân tích và nhận dạng các hình ảnh và, nói chung là dữ liệu đa chiều từ thế giới thực để cho ra các thông tin số hoặc biểu tượng
+ Là một lĩnh vực bao gồm các phương pháp thu nhận, xử lý ảnh kỹ thuật số, phân tích và nhận dạng các hình ảnh và, nói chung là dữ liệu đa chiều từ thế giới thực để cho ra các thông tin số hoặc biểu tượng
 
 ## 2. Một só ứng dụng thực tiễn: 
-* tự động nhận dạng 
-* tự động kiểm tra 
-* điều khiển 
-* phát hiện sự kiện 
-* dẫn đường 
+* Tự động nhận dạng 
+* Tự động kiểm tra 
+* Điều khiển 
+* Phát hiện sự kiện 
+* Dẫn đường 
 
 ## 3. Một số task:
 * Recognition: xác định những đối tượng nào, thực thể nào trong ảnh, video
